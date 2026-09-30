@@ -19,6 +19,11 @@ data pipelines, releases and production reliability.
 Automation over manual processes · idempotent, observable pipelines · clear API contracts ·
 clean release workflows · understanding how the whole system behaves in production
 
+### 🎓 Education
+
+- **MCA, Computer Science**, B. M. S. College of Engineering · 2016–2019
+- **B.Sc., Computer Science**, GSC · 2013–2016
+
 ### 🛠 Tech
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
