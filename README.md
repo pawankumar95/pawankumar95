@@ -2,14 +2,15 @@
 
 **Principal Engineer (Frontend) at ConfirmTkt, part of ixigo** · Bangalore, India
 
-I lead frontend engineering across large React and TypeScript codebases:
-architecture, code quality and delivery.
+8+ years building for the web. I lead frontend engineering across large React and
+TypeScript codebases: architecture, code quality and delivery.
 
 - **Ship:** own PR reviews, testing, release management, deployment validation and production monitoring
 - **Speed:** drive Core Web Vitals work, tracked with a Python batch tool on the PageSpeed Insights API
 - **Flow:** moving teams to trunk-based development with immutable release tags, feature flags and no long-lived release branches
 - **AI:** use Claude and Codex daily, and build agent configs, AI PR-review rules and reusable repo scaffolding
 - **Hiring:** interview senior frontend engineers and build the guides, rubrics and live-coding exercises
+- **Learning:** building AI agents
 
 ### 🛠 Tech
 
