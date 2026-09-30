@@ -2,8 +2,8 @@
 
 **Principal Engineer (Frontend) at ConfirmTkt, part of ixigo** · Bangalore, India
 
-I lead frontend engineering for train booking in India: ConfirmTkt web plus
-several white-label booking apps, all in one pnpm monorepo.
+I lead frontend engineering across large React and TypeScript codebases:
+architecture, code quality and delivery.
 
 - **Ship:** own PR reviews, testing, release management, deployment validation and production monitoring
 - **Speed:** drive Core Web Vitals work, tracked with a Python batch tool on the PageSpeed Insights API
