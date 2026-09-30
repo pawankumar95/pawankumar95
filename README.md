@@ -1,16 +1,23 @@
 ## Hi, I'm Pawan Kumar 👋
 
-**Principal Engineer (Frontend) at ConfirmTkt, part of ixigo** · Bangalore, India
+**Principal Engineer at ConfirmTkt, part of ixigo** · Bangalore, India
 
-8+ years building for the web. I lead frontend engineering across large React and
-TypeScript codebases: architecture, code quality and delivery.
+8+ years building for the web. I own systems end to end: frontend architecture,
+data pipelines, releases and production reliability.
 
+- **Integration:** work with backend and QA teams on API contracts, expected behaviour and test coverage
+- **Data:** incremental, idempotent pipelines with merging, deduplication and CDN-based publishing
 - **Ship:** own PR reviews, testing, release management, deployment validation and production monitoring
 - **Speed:** drive Core Web Vitals work, tracked with a Python batch tool on the PageSpeed Insights API
-- **Flow:** moving teams to trunk-based development with immutable release tags, feature flags and no long-lived release branches
+- **Flow:** trunk-based development with immutable release tags, feature flags and no long-lived release branches
 - **AI:** use Claude and Codex daily, and build agent configs, AI PR-review rules and reusable repo scaffolding
-- **Hiring:** interview senior frontend engineers and build the guides, rubrics and live-coding exercises
+- **Hiring:** interview senior engineers and build the guides, rubrics and live-coding exercises
 - **Learning:** building AI agents
+
+### ⚙️ What I care about
+
+Automation over manual processes · idempotent, observable pipelines · clear API contracts ·
+clean release workflows · understanding how the whole system behaves in production
 
 ### 🛠 Tech
 
@@ -19,6 +26,7 @@ TypeScript codebases: architecture, code quality and delivery.
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
